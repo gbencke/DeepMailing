@@ -16,4 +16,5 @@ notebook/.ipynb*
 *.full
 *.pickle
 *.npy
+logs/
 
