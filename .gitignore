@@ -17,4 +17,6 @@ notebook/.ipynb*
 *.pickle
 *.npy
 logs/
+intermediate/*.txt
+output/
 
