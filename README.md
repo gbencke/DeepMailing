@@ -77,6 +77,6 @@ the relevant variables that can be used in order to optimize the collection
 process.
 
 **This repository contains only code as the data to be used on the notebooks is
-confidential and contains personal information of customers. **
+confidential and contains personal information of customers.**
 
 
